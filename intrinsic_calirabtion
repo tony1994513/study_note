@@ -1,0 +1,13 @@
+- Projective transformation 射影变换
+- Intrinsic properties
+	- image sensor dimensions(numbers of rows and columns of pixels)
+	-  the central pixel of the image plane (depends on how the image plane is mounted relative to the idealized focal point)
+	- distance from the image plane to the focal point
+	- coefficients of a model of lens distortion
+- 内参性质
+	-  图像尺寸（像素行数和列数） 
+	-  图像平面的中心像素（取决于图像平面相对于理想焦点的安装方式） 
+	- 从图像平面到焦点的距离
+	- 透镜畸变模型系数 
+ 
+<img src="https://github.com/tony1994513/study_note/blob/master/pictures/camera_frame_definition.png" width="10" height="5" alt="camera frame definition" align=center>
